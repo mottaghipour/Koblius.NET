@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Koblius.NET\Koblius.NET.csproj" />
+    <ProjectReference Include="..\src\Koblius.NET.Parser\Koblius.NET.Parser.csproj" />
   </ItemGroup>
 
 </Project>
